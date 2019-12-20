@@ -6,16 +6,7 @@
     color: blue;
 }
 
-.navbar-brand: hover{
-    color: blue;
-}
-
-
-.nav-link: hover{
-    color: blue;
-}
-
 .navbar {
-    color: #FFFFFF;
-    background-color: #281c9c;
+    color: #1F1F1F;
+    background-color: #2C2C2C;
 }
