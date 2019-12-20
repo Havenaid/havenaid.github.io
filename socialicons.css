@@ -5,3 +5,7 @@
 .fa-coffee:hover {
     color: blue;
 }
+
+.navbar-custom { 
+    background-color: lightgreen; 
+} 
