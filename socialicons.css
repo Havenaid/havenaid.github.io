@@ -6,6 +6,11 @@
     color: blue;
 }
 
+.navbar-brand: hover{
+    color: blue;
+}
+
+
 .nav-link: hover{
     color: blue;
 }
