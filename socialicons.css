@@ -9,3 +9,9 @@
 .nav-link: hover{
     color: blue;
 }
+
+.navbar-default {
+  background-color: #281c9c;
+  background-image: none;
+  background-repeat: no-repeat;
+ }
