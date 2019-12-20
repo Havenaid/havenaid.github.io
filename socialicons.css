@@ -9,9 +9,3 @@
 .nav-link: hover{
     color: blue;
 }
-
-.jumbotron{
-	background-image: url('Background.png');
-	background-size: cover;
-	background-repeat: no-repeat;
-} 
