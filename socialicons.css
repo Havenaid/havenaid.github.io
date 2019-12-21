@@ -5,3 +5,11 @@
 .fa-coffee:hover {
     color: blue;
 }
+
+@font-face {
+    font-family: "Goldplay Alt Semi-Bold";
+    src: url(http://www.example.org/mycustomfont.ttf) format("woff");
+}
+p.goldplay { 
+    font-family: "Goldplay Alt Semi-Bold";
+}
