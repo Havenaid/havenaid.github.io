@@ -6,5 +6,9 @@
     color: blue;
 }
 
+.fa-shopping:hover {
+    color: red;
+}
+
 @font-face { font-family: GoldplayASB; src: url('https://havenaid.github.io/Goldplay Alt SemiBold.otf'); } 
 @font-face { font-family: GoldplayAM; src: url('https://havenaid.github.io/Goldplay Medium.otf'); } 
