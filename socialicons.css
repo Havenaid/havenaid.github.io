@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: "Goldplay Alt Semi-Bold";
-    src: url(http://www.example.org/mycustomfont.ttf) format("woff");
+    src: url(https://havenaid.github.io/Goldplay Alt SemiBold.otf) format("opentype");
 }
 p.goldplay { 
     font-family: "Goldplay Alt Semi-Bold";
