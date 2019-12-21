@@ -6,10 +6,4 @@
     color: blue;
 }
 
-@font-face {
-    font-family: "Goldplay Alt Semi-Bold";
-    src: url(https://havenaid.github.io/Goldplay Alt SemiBold.otf) format("opentype");
-}
-p.goldplay { 
-    font-family: "Goldplay Alt Semi-Bold";
-}
+@font-face { font-family: Goldplay; src: url('https://havenaid.github.io/Goldplay Alt SemiBold.otf'); } 
